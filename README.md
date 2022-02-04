@@ -1,6 +1,6 @@
 # Electricity-Price-Forecasting
-This repository is forked from a gitlab repository (originally made for a 3-day hackathon). 
-The goal of the fork is to improve the code to practice machine learning, 
+Originally made for a 3-day hackathon, this version is an improved version of the submitted project. 
+The goal of the update is to improve the code to practice machine learning, 
 database management, and python development.
 
 The new modifications will improve:
